@@ -1,5 +1,1 @@
-<?php
-
-$key = ["AnjayMabar",];
-
-?>
+$key = ["AnjayMabar"];
